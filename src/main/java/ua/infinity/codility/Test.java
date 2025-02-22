@@ -5,8 +5,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @author Alex Oliinyk
- * @see Object
- * @since X.Y.Z
  */
 public class Test {
 
